@@ -42,7 +42,7 @@ Une fois arriver sur la liste des options:
 	  * aller dans requettes des étudiants
    * pour __lancer l'algorithme__ d'affectation
 	  * aller dans requettes des étudiants-> cliquer sur le bouton "cliquer pour lancer l'affectation"
-	  * pour consulter le __resultat__ de l'affectation
+   * pour consulter le __resultat__ de l'affectation
 	  * aller dans résultat d'affectation
 
 #### 2. Etudiant:
