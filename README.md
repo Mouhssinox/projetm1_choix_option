@@ -2,7 +2,7 @@
 
 1. Télécharger le projet et le mettre dans un dossier déstiner à localhost *(htdocs enx lammp)*
 2. Créer un base de donnée nommé **projetm1**
-3. Importer la base de donnée dans cette base, sur phpadmin, en important le fichier **projetm1.sql**
+3. Importer la base de donnée dans cette base, sur phpMyadmin, en important le fichier **projetm1.sql**
 4. L'installation est fini :)
   * vous pouvez allez à la page login.php du projet *(en localhost)*
 
